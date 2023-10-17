@@ -1,10 +1,9 @@
-/* #click-me{
-    display: block;
-    width: 20%;
-    height: 20%;
-    margin-left: 40%;
-    margin-top: 40%;
-} */
+.nav-center{
+    background-color: #B6FFFA;
+    box-shadow: inset;
+    margin-bottom: 40px ;
+    box-shadow: 5px 5px #80B3FF;
+}
 body{
     background-color: #D0E7D2;
     font-family: cursive;
@@ -16,10 +15,11 @@ body{
     height: 40vh;
     margin: auto;
     text-align: center;
-    border: solid 2px #687EFF;
+    /* border: solid 2px #687EFF; */
     padding: 25px;
     font-family: cursive;
     background-color: #B6FFFA;
+    box-shadow: 10px 10px #80B3FF;
 
 }
 .color{
